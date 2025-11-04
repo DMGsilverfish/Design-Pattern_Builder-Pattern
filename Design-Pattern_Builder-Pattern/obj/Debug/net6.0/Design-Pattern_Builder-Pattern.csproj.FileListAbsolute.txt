@@ -1,0 +1,14 @@
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\bin\Debug\net6.0\Design-Pattern_Builder-Pattern.exe
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\bin\Debug\net6.0\Design-Pattern_Builder-Pattern.deps.json
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\bin\Debug\net6.0\Design-Pattern_Builder-Pattern.runtimeconfig.json
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\bin\Debug\net6.0\Design-Pattern_Builder-Pattern.dll
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\bin\Debug\net6.0\Design-Pattern_Builder-Pattern.pdb
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.AssemblyInfoInputs.cache
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.AssemblyInfo.cs
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.csproj.CoreCompileInputs.cache
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.dll
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\refint\Design-Pattern_Builder-Pattern.dll
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.pdb
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\Design-Pattern_Builder-Pattern.genruntimeconfig.cache
+C:\NMU work\ONT402\Builder Pattern\Design-Pattern_Builder-Pattern\Design-Pattern_Builder-Pattern\obj\Debug\net6.0\ref\Design-Pattern_Builder-Pattern.dll
